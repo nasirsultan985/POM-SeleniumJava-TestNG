@@ -6,7 +6,7 @@ import pages.HomePage;
 /*
  * 
  * author: Nasir Sultan 
- * LinkedIn: https://www.linkedin.com/in/nasirpk3/
+ * LinkedIn: https://www.linkedin.com/in/nasirsultan/
  * 
  */
 public class HomeTests extends BaseTests {
